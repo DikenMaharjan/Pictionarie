@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920347055399",
+    "project_id": "pictionarie-f3399",
+    "storage_bucket": "pictionarie-f3399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920347055399:android:7ea9edf8cb01bfaa5a8502",
+        "android_client_info": {
+          "package_name": "com.example.pictionarie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920347055399-npo185epp2pedud3oblalo6rg3ab1jka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4qKzLBhIw3Bamb6JQJfJkfa0YNyKrPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920347055399-npo185epp2pedud3oblalo6rg3ab1jka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
